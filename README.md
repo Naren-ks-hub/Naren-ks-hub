@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi 👋, I'm Naren 
 
-<!--
-**Naren-ks-hub/Naren-ks-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Artificial Intelligence & Data Science Student | Java Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm **Naren KS**, a student at **V.S.B Engineering College**, pursuing **Artificial Intelligence and Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about programming, problem-solving, and exploring how technology can be used to build useful real-world solutions.
+
+---
+
+## 🎓 About Me
+
+* 🏫 **College:** V.S.B Engineering College
+* 🎓 **Course:** Artificial Intelligence and Data Science
+* ☕ **Programming:** Java
+* 🚀 **Project:** Bachelor's Bite
+* 🌱 Currently improving my programming and development skills
+* 💡 Interested in AI, Data Science, and Software Development
+
+---
+
+## 🛠️ Skills
+
+### Programming
+
+* ☕ Java
+* 💻 python(basic) 
+
+### AI & Data Science
+
+* 🤖 Artificial Intelligence
+* 📊 Data Science
+* 📈 Data Analysis
+
+### Tools
+
+* 🐙 Git & GitHub
+* 💻 Eclipse 
+
+---
+
+## 🚀 Featured Project
+
+### 🍽️ Bachelor's Bite
+
+**Bachelor's Bite** is a project focused on providing a useful and convenient solution for students.
+
+> Building practical technology solutions while learning and improving my development skills.
+
+🔗 **Project Repository:** 
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Java
+* Data Structures & Algorithms
+* Artificial Intelligence
+* Database Management
+* Web & Backend Development
+
+---
+
+## 🎯 My Goals
+
+* 🚀 Build real-world projects
+* 💻 Become a skilled software developer
+* 🤖 Develop AI-based applications
+* 📊 Improve my Data Science skills
+* 🌐 Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:** `github.com/your-username`
+
+**LinkedIn:** Add your LinkedIn profile
+
+**Email:** Add your professional email
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+*Learning • Building • Improving • Repeating*
