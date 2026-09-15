@@ -47,7 +47,7 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 
 > Building practical technology solutions while learning and improving my development skills.
 
-🔗 **Project Repository:** 
+🔗 **Project Repository:** https://github.com/Naren-ks-hub/Bachelor-s-Bite
 
 ---
 
