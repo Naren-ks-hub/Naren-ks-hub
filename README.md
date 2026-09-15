@@ -75,9 +75,9 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 
 **GitHub:** `github.com/your-username`
 
-**LinkedIn:** Add your LinkedIn profile
+**LinkedIn:** 
 
-**Email:** Add your professional email
+**Email:** narenks0310@gmail.com
 
 ---
 
