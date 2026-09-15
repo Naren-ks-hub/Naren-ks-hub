@@ -73,9 +73,11 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 
 ## 📫 Connect With Me
 
-**GitHub:** `github.com/your-username`
+**GitHub:** https://github.com/Naren-ks-hub
 
-**LinkedIn:** 
+**LinkedIn:** www.linkedin.com/in/naren-ks
+
+
 
 **Email:** narenks0310@gmail.com
 
@@ -83,4 +85,3 @@ I'm passionate about programming, problem-solving, and exploring how technology 
 
 ### ⭐ Thanks for visiting my profile!
 
-*Learning • Building • Improving • Repeating*
